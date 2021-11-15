@@ -42,4 +42,4 @@ krof.roman.2018@skola.ssps.cz <br/>
   * Spolehlivost
     * Program při správných podmínkách ve více jak 99% případů správně aktualizuje informace a vypíše informace
   * Bezpečnost
-    * Program pracuje s pouze s daty od NASA
+    * Program pracuje pouze s daty od NASA
