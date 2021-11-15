@@ -29,7 +29,7 @@ krof.roman.2018@skola.ssps.cz <br/>
   1. **Podrobnosti tělesa**
     * Důležitost: 1
     * Vstup: název položky a dílčí informace: čas a datum, průměr, rychlost, vzdálenost od Země
-    * Akce: po kliknutí na těleso se otevře okno s podrobnějšími podrobnostmi tělesa
+    * Akce: po kliknutí na těleso se otevře okno s podrobnějšími vlastnostmi tělesa
     * Výstup: podrobnějíš informace
   2. **Aktualizace**
     * Důležitost: 1
