@@ -30,7 +30,7 @@ krof.roman.2018@skola.ssps.cz <br/>
     * Důležitost: 1
     * Vstup: název položky a dílčí informace: čas a datum, průměr, rychlost, vzdálenost od Země
     * Akce: po kliknutí na těleso se otevře okno s podrobnějšími vlastnostmi tělesa
-    * Výstup: podrobnějíš informace
+    * Výstup: podrobnější informace
   2. **Aktualizace**
     * Důležitost: 1
     * Vstup: informace z API od NASA
