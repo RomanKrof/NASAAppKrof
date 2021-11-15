@@ -15,7 +15,7 @@ krof.roman.2018@skola.ssps.cz <br/>
     * Roman Krof krof.roman.2018@skola.ssps.cz, tel. 999 888 777, Facebook: Roman Krof
 * Celkový popis
   * Funkce
-    * Program má jednoduchou funkci: zobrazení vesmírných těles, která se přiblížila k Zemi, a jejich stručný popis (rychlost, kdy se přiblížilo)
+    * Program má jednoduchou funkci: zobrazení vesmírných těles, která se přiblížila k Zemi, a jejich stručný popis (rychlost, kdy se přiblížila)
   * Uživatelské skupiny
     * Široká veřejnost, vesmírní nadšenci
   * Omezení návrhu a implementace
