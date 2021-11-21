@@ -1,4 +1,4 @@
-# NASA App
+# NASA App - SRS
 ## Verze 1
 
 Roman Krof <br/>
